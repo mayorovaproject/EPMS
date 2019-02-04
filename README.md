@@ -1,7 +1,7 @@
 # EPMS
 Project of Equipment Performance Monitoring System based on NodeMCU 
 
-https://ArthurIshmukhametov.github.io
+https://mayorovaproject.github.io/
 
 by Aleksandra Mayorova and @ArthurIshmukhametov
 
